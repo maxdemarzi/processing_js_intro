@@ -1,0 +1,6 @@
+void setup() {
+  size(200, 200);          // 0,0 starts at top left
+  background(120,140,160); // individual RGB values
+  stroke(0);               // apply 0 to all values
+  ellipse(50, 50, 25, 25); // x, y cntr and x, y radius
+}

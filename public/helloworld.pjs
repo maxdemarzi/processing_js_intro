@@ -1,0 +1,4 @@
+void setup() {
+  size(200, 200);
+  ellipse(50, 50, 10, 10);
+}

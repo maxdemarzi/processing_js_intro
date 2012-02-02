@@ -1,0 +1,8 @@
+void setup() {
+  size(200, 200);
+  noStroke();
+  background(120,140,160);
+  ellipse(width/2, height/2, 50, 50);
+  fill(50,50,180);
+  arc(width/2, height/2, 50, 50, 0, PI/4);
+ }
